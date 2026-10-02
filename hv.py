@@ -1,0 +1,1 @@
+print("teri ma ki jai")
